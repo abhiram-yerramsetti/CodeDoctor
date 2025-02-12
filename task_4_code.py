@@ -33,7 +33,7 @@ st.markdown(
 
 
 
-genai.configure(api_key="AIzaSyClPMgcsZPQppE9_BZTCZbmAWojvvxpLo4")
+genai.configure(api_key="********************************")
 
 model = genai.GenerativeModel(model_name="models/gemini-2.0-flash")
 
